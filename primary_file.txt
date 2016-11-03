@@ -1,3 +1,5 @@
 This is my first file I added to the project.
-Another changes in file.
 Some changes added into this file.
+Another changes in file.
+
+It comes before all other files.
