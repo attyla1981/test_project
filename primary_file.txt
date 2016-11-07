@@ -1,5 +1,5 @@
-This is my first file, simple modification in this file.
-Some changes added into this file.
-Another changes in file. Test merge.
+This is my first file, basic modification in the file.
+There are some changes added into this file.
+Another changes in file.
 
-It comes before all other files.
+This file comes before all other files.
