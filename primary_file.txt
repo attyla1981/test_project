@@ -1,5 +1,5 @@
 This is my first file I added to the project. Simple modification in this file.
 Some changes added into this file.
-Another changes in file.
+Another changes in file. Test merge.
 
 It comes before all other files.
