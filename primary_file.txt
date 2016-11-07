@@ -1,4 +1,4 @@
-This is my first file I added to the project. Simple modification in this file.
+This is my first file, simple modification in this file.
 Some changes added into this file.
 Another changes in file. Test merge.
 
