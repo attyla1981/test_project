@@ -1,5 +1,5 @@
 This is my first file and this is simple modification in this file.
 There are some changes I added into the file.
-Another changes in file.
+Some changes in file.
 
 It comes before all other files in this project.
